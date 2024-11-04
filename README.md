@@ -30,11 +30,29 @@ This README outlines the key tasks and learnings from the workshop on using ROS2
       - Created a ROS2 package using colcon build tool.
       - Added Python scripts within the package for robot control and simulation tasks.
     * Outcome: Successfully built and executed a custom ROS2 package.
-  
+ 
 4. Drawing a Circle with TurtleBot in VS Code
     * Objective: Use VS Code to launch TurtleBot and draw a circle in simulation.
     * Steps:
       - Configured VS Code for ROS2 development.
       - Launched the TurtleBot simulation and executed commands to make the bot trace a circular path.
     * Outcome: Acquired hands-on experience in bot control and ROS2 integration with VS Code.
-<p align="center" ><img width="460" height="300" src="ROS2_Workshop_GAT/Images/Circle_Turtlebot.png">
+ 
+<p align="center"> <img src="./Images/Circle_Turtlebot.png">
+
+5. Launching Gazebo with ```TurtleBot Waffle``` and Obstacles
+    * Objective: Simulate a TurtleBot Waffle in Gazebo with obstacles.
+    * Steps:
+      - Selected the ```TurtleBot Waffle``` model.
+      - Launched a Gazebo environment with pre-defined obstacles for navigation challenges.
+    * Outcome: Gained familiarity with Gazebo simulation environment and TurtleBot models.
+<p align="center"> <img src="./Images/Obstacle_course.png">
+
+6. Bot Control with ```teleop_key```
+    * Objective: Manually control the TurtleBot using keyboard commands.
+    * Steps:
+      - Used ```teleop_key``` command to navigate the bot within the Gazebo environment.
+      - Simulated obstacle avoidance and navigation in real-time.
+    * Outcome: Learned the basics of teleoperation and manual control for robots.
+
+ 
