@@ -64,7 +64,9 @@ This README outlines the key tasks and learnings from the workshop on using ROS2
     * Outcome: Successfully mapped the environment and set up the TurtleBot for automatic navigation in simulation.
 <p align="center"> <img src="./Images/Simulation_mapping_1.png">
 <p align="center"> <img src="./Images/Simulation_mapping_2.jpg">
-<p align="center"> <img src="./Images/Simulation_mapping_3.mp4">
+https://github.com/user-attachments/assets/4c9c8551-60e3-41cf-ab1f-3ee110c9f509
+
+
 
 ## Summary of Learnings
 This workshop provided practical experience in robotics simulation using ROS2, Gazebo, and RViz, enabling better understanding of robot control, mapping, and simulation environments. By the end, participants were able to:
