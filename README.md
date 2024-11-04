@@ -37,3 +37,4 @@ This README outlines the key tasks and learnings from the workshop on using ROS2
       - Configured VS Code for ROS2 development.
       - Launched the TurtleBot simulation and executed commands to make the bot trace a circular path.
     * Outcome: Acquired hands-on experience in bot control and ROS2 integration with VS Code.
+<p align="center" ><img width="460" height="300" src="ROS2_Workshop_GAT/Images/Circle_Turtlebot.png">
